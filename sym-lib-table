@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name GP-Pcb-Nano-rescue)(type Legacy)(uri ${KIPRJMOD}/GP-Pcb-Nano-rescue.lib)(options "")(descr ""))
+)
